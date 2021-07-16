@@ -1,0 +1,25 @@
+
+
+/* this is my css file */
+
+body{
+    background-color: rgb(236, 220, 220);
+}
+
+h1{
+    color: hotpink;
+}
+h3,p {
+    color: indianred;
+    font-family: 'Raleway', sans-serif;
+
+}
+.chart{
+    margin: auto;
+    background-color: white;
+    width: 330px; 
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: white;
+}
